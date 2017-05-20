@@ -20,18 +20,27 @@ Output a single integer — the minimal possible number of minutes required to d
 Sample Input
 
 sample input #1
+
 3
+
 2 3 9
+
 5
 
 sample input #2
+
 3
+
 2 3 6
+
 5
+
 Sample Output
 
 sample output #1
+
 3
 
 sample output #2
+
 2
